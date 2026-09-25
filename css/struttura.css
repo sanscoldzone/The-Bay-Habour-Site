@@ -573,3 +573,13 @@ p.titolo-pasion {
     background-color: #e60000;
     color: #fff;
 }
+.link-cookie {
+    color: #e60000;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.link-cookie:hover {
+    color: #ff1a1a;
+    text-shadow: 0 0 5px rgba(230, 0, 0, 0.6);
+}
